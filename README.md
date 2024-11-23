@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **smabdurrahmanshah@gamil.com**
+- 📫 How to reach me **smabdurrahmanshah@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abdurrehman-shah](https://www.linkedin.com/in/abdurrehman-shah)
 
